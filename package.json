@@ -1,0 +1,27 @@
+{
+  "name": "seeking",
+  "version": "1.0.0",
+  "description": "Seeking Social Network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "firebase": "^3.6.4",
+    "firebase-admin": "^4.0.4",
+    "firebase-token-generator": "^2.0.0",
+    "mongodb": "1.1.8",
+    "socket.io": "0.9.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navraj007in/seeking.git"
+  },
+  "author": "Navraj Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navraj007in/seeking/issues"
+  },
+  "homepage": "https://github.com/navraj007in/seeking#readme"
+}
